@@ -1,5 +1,5 @@
 import pytest
-from job_task.utils import Utils
+from utils import Utils
 
 PATTERN_FILE = '../files/abstract_reference_file.pdf'
 

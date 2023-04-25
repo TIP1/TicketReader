@@ -1,0 +1,6 @@
+opencv_python==4.5.4.60
+pdf2image==1.16.0
+pdfminer.six==20221105
+PyMuPDF==1.22.1
+pytest==6.2.5
+pyzbar==0.1.9
